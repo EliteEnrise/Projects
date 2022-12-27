@@ -23,3 +23,9 @@ I am a self-taught programmer. I first started with Lua, which got my attention 
 
 I love open-sourcing things, because i learned the most from it. Open-source codes are the best sources of learning new things.
 
+🚧 **So far, i have done:**
+<!--START_SECTION:abcd-->
+
+✅ Completed 1 commissions, of which:
+    ✅ Long-Term: 0
+    ✅ Short-Term: 1
