@@ -5,7 +5,7 @@
 
 <br />
 
-Hello there, and welcome to my portofolio. I am quite skilled in many programming languages, including:
+Hello there, i am **Elite Enrise** and welcome to my portofolio. I am quite skilled in many programming languages, including:
 <!--START_SECTION:abc-->
 
 ```text
