@@ -3,6 +3,7 @@
   <img align="left" alt="Enrise's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <br/>
+<br/>
 Hello there, and welcome to my portofolio. I am quite skilled in many programming languages, including:
 ```
 - Lua(U) ███████████ More than 4-5 Years of experience
