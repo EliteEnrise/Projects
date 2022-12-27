@@ -19,6 +19,9 @@ Hello there, and welcome to my portofolio. I am quite skilled in many programmin
 ```
 
 <!--END_SECTION:abc-->
+
+I have experience with reverse engineering assembly x86, Lua things (such as obfuscators), general exploiting (such as the documentations, functionality, etc) and much more knowledge. I can assure you, none of my codes would have flaws, or any type of possible exploits, fully because of my years of experience in multiple aspects from ROBLOX.
+
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/851807767370268693/1002464546847473714/MOSHED-2022-7-29-9-36-3.gif" width="250" height="250" />
 I am a self-taught programmer. I first started with Lua, which got my attention and i kept on learning new things using it. I wanted to try something new and moved to Python, which was also very interesting. I wanted a challenge, so i went for C++, however, it wasn't any more difficult than what i previously have learned. I continue to use Lua, Python and C++ on a daily base to maintain my skills fresh.
 
