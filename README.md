@@ -38,7 +38,7 @@ https://www.roblox.com/groups/5147245/Flooded-Area-fan-group#!/about
 🚧 **So far, i have done:**
 <!--START_SECTION:abcd-->
 
-✅ Completed 1 commissions, of which: **0** were Long-Term, and **1** were Short-Term.
+✅ Completed 1 commissions, of which: **0** were Long-Term, and **2** were Short-Term.
 
 <!--END_SECTION:abcd-->
 
