@@ -27,6 +27,10 @@ I am a self-taught programmer. I first started with Lua, which got my attention 
 
 I love open-sourcing things, because i learned the most from it. Open-source codes are the best sources of learning new things.
 
+I have previously worked on the following games:
+https://www.roblox.com/games/2974648725
+https://www.roblox.com/games/3976767347/Flooded-Area
+
 🚧 **So far, i have done:**
 <!--START_SECTION:abcd-->
 
