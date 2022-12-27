@@ -41,3 +41,15 @@ https://www.roblox.com/groups/5147245/Flooded-Area-fan-group#!/about
 ✅ Completed 1 commissions, of which: **0** were Long-Term, and **1** were Short-Term.
 
 <!--END_SECTION:abcd-->
+
+🚧 **I am able to, but not limited to, doing the following things:**
+- Provide high quality security for your game
+- Create any general system (for example guns, part-dragging, etc)
+- Work with UIs or even design a simple UI
+- Work with datastores, messagingservice (globally synced systems)
+- Work with roleplay games, script pre-made VFX
+- Anything that uses RemoteEvents/RemoteFunctions
+- Anything swords-related
+- Guns, combat, etc.
+- Keycards, ClickDetectors, ProximityPrompts, etc.
+... and LOTS more
