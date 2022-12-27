@@ -26,6 +26,6 @@ I love open-sourcing things, because i learned the most from it. Open-source cod
 🚧 **So far, i have done:**
 <!--START_SECTION:abcd-->
 
-✅ Completed 1 commissions, of which:
-    ✅ Long-Term: 0
-    ✅ Short-Term: 1
+✅ Completed 1 commissions, of which: **0** were Long-Term, and **1** were Short-Term.
+
+<!--END_SECTION:abcd-->
