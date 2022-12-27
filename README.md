@@ -5,7 +5,6 @@
 <br/>
 <br/>
 Hello there, and welcome to my portofolio. I am quite skilled in many programming languages, including:
-<br/>
 <!--START_SECTION:abc-->
 ```text
 - Lua(U) ███████████ More than 4-5 Years of experience
