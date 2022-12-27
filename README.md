@@ -32,6 +32,9 @@ https://www.roblox.com/games/2974648725
 https://www.roblox.com/games/3976767347/Flooded-Area
 https://www.roblox.com/games/4647664111
 
+I am an ex-developer/developer of the following groups:
+https://www.roblox.com/groups/5147245/Flooded-Area-fan-group#!/about
+
 🚧 **So far, i have done:**
 <!--START_SECTION:abcd-->
 
