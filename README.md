@@ -39,6 +39,7 @@ https://www.roblox.com/groups/5147245/Flooded-Area-fan-group#!/about
 <!--START_SECTION:abcd-->
 
 ✅ Completed 3 commissions, of which: **0** were Long-Term, and **3** were Short-Term.
+✅ Contributed to over **3 million** visits
 
 <!--END_SECTION:abcd-->
 
