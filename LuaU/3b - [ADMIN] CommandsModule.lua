@@ -6,7 +6,7 @@ local Cmd = Ex:Command("%%speed <player> <integer>", {}, function(a, b, c)
 end, function(a)
 	print("smth went wrong")
 end)
--- just type speed player and the speed amount for it to give u the walkspeed
+-- just type speed (username) and the speed amount for it to give u the walkspeed
 
 -- declare a few variables (arrays)
 local Commands = {};
