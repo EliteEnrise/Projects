@@ -1,3 +1,13 @@
+-- In example place the following simple piece of code was used:
+local Ex = require(script.ModuleScript)
+
+local Cmd = Ex:Command("%%speed <player> <integer>", {}, function(a, b, c)
+	b.Character.Humanoid.WalkSpeed = c
+end, function(a)
+	print("smth went wrong")
+end)
+-- just type speed player and the speed amount for it to give u the walkspeed
+
 -- declare a few variables (arrays)
 local Commands = {};
 local Internal = {};
